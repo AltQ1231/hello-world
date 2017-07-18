@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "id": 1000,
+      "name": "admin",
+      "age": "22",
+      "gender": "male"
+    },
+    {
+      "id": 1001,
+      "name": "小明",
+      "age": "22",
+      "gender": "male"
+    },
+    {
+      "name": "黎明",
+      "age": 22,
+      "gender": "male",
+      "id": 1002
+    }
+  ],
+  "book": [
+    {
+      "id": "1000",
+      "name": "JavaScript从入门到精通",
+      "price": "59",
+      "owner_id": "1000"
+    },
+    {
+      "id": "1001",
+      "name": "Java从入门到放弃",
+      "price": "69",
+      "owner_id": "1001"
+    },
+    {
+      "id": "1002",
+      "name": "深入React技术栈",
+      "price": "79",
+      "owner_id": "1002"
+    },
+    {
+      "id": "1003",
+      "name": "AngularJS权威教程",
+      "price": "89",
+      "owner_id": "1003"
+    }
+  ]
+}
